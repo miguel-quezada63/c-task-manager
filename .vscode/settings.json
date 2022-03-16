@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.hpp": "cpp",
+    "*.module": "php",
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "string": "cpp",
+    "typeinfo": "cpp",
+    "task.h": "c",
+    "algorithm": "cpp",
+    "appointment.h": "c",
+    "utilities.h": "c",
+    "task_manager.h": "c",
+    "stddef.h": "c"
+  }
+}
